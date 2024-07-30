@@ -1,0 +1,4 @@
+Elemento na posição 2: 20
+Elemento na posição 2 após modificação: 25
+Elemento na posição 2 após remoção: 30
+Tamanho da lista: 2
